@@ -1,5 +1,5 @@
 # CS2400 Project 1 The Three Amigos
-# Names: Kalista Hamad, Christopher Ha, Javier Angeles-Robles
+# Names: Kalista Hamad (Kaliiiii), Christopher Ha (Chrisrha), Javier Angeles-Robles (JavierA-R)
 #Contributions: 
 # Christopher wrote the Union Method for linkedBag and Resizable ArrayBag
 # Javier wrote the Difference Method for linkedBag and Resizable ArrayBag
